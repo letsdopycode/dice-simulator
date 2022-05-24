@@ -6,3 +6,5 @@ dice simulator using python tkinter  library
 ![d2](https://user-images.githubusercontent.com/105961749/170024076-954f896f-8055-44bc-a080-26a43ffd89a4.png)
 
 ![d3](https://user-images.githubusercontent.com/105961749/170024283-b0e6ea16-4c06-49cb-8836-d790ac9ac0af.png)
+
+![d4](https://user-images.githubusercontent.com/105961749/170024485-6ea176d6-c9d5-4f83-b4f3-dde86f49e4fe.png)
